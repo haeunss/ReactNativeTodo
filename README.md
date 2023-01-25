@@ -1,6 +1,6 @@
 <br/>
 
-## 🐶Todo App🐱
+## 🌈Todo App
 ### React-Native TodoList Project
 
 <br/>
