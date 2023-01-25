@@ -26,7 +26,7 @@
     <sapn><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black"></sapn>
 </div>
 
-#### - Tool 및 배포
+#### - Tool
 <div>
     <sapn><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"></sapn>
     <sapn><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"></sapn>
