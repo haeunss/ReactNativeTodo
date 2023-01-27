@@ -47,7 +47,7 @@
 
 <div align="center">
 
-   ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/117965325/214996907-3fce5cd9-c02b-4ed4-94d2-dc956739293a.gif)
+   ![gif 변환](https://user-images.githubusercontent.com/117965325/214997304-2cac203a-8533-4511-bb35-1fdedd05624c.gif)
 
 </div>
 
