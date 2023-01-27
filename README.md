@@ -34,8 +34,22 @@
 
 <br/>
 <br/>
+<br/>
 
 ## 🚧프로젝트 구성
+
+<br/>
+<br/>
+
+### * 투두 앱 구현 영상
+
+<br/>
+
+<div align="center">
+
+   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/117965325/214994306-12a52f1c-6b43-479e-8153-11934a816e42.gif)
+
+</div>
 
 <br/>
 
